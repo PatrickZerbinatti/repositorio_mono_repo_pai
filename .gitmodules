@@ -1,0 +1,6 @@
+[submodule "submodulo_exemplo_robo_cnpj"]
+	path = submodulo_exemplo_robo_cnpj
+	url = git@github.com:PatrickZerbinatti/submodulo_exemplo_robo_cnpj.git
+[submodule "submodulo_exemplo_robo_pix"]
+	path = submodulo_exemplo_robo_pix
+	url = git@github.com:PatrickZerbinatti/submodulo_exemplo_robo_pix.git
